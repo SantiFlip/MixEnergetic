@@ -178,22 +178,6 @@ python 01_exploracion_datos.py
 - **Minimalismo:** Enfoque en los datos esenciales
 - **Marca:** Identidad visual cohesiva
 
-## 📋 Uso de IA en el Proyecto
-
-Este proyecto ha sido desarrollado con asistencia de IA (Claude Sonnet) para:
-
-### Consultas Realizadas
-1. **Estructura del proyecto:** Organización de archivos y módulos
-2. **Desarrollo de API:** Funciones para conectar con e-sios
-3. **Análisis de datos:** Estrategias de EDA y preprocesamiento
-4. **Visualización:** Mejores prácticas con Plotly/Dash
-
-### Proceso de Revisión
-- Cada sugerencia de IA fue revisada y adaptada
-- El código fue probado y optimizado manualmente
-- Las decisiones de diseño fueron validadas con datos reales
-- La documentación fue personalizada para el proyecto específico
-
 ## 🚀 Próximos Pasos
 
 1. **Ejecutar exploración inicial:** `python 01_exploracion_datos.py`
